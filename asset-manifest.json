@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/talkitout/static/css/main.1796080f.chunk.css",
+    "main.js": "/talkitout/static/js/main.7f6e641f.chunk.js",
+    "main.js.map": "/talkitout/static/js/main.7f6e641f.chunk.js.map",
+    "runtime-main.js": "/talkitout/static/js/runtime-main.db6450f5.js",
+    "runtime-main.js.map": "/talkitout/static/js/runtime-main.db6450f5.js.map",
+    "static/js/2.6faf3461.chunk.js": "/talkitout/static/js/2.6faf3461.chunk.js",
+    "static/js/2.6faf3461.chunk.js.map": "/talkitout/static/js/2.6faf3461.chunk.js.map",
+    "index.html": "/talkitout/index.html",
+    "precache-manifest.b3bf59f5c7f3dd989600f2888413e83d.js": "/talkitout/precache-manifest.b3bf59f5c7f3dd989600f2888413e83d.js",
+    "service-worker.js": "/talkitout/service-worker.js",
+    "static/css/main.1796080f.chunk.css.map": "/talkitout/static/css/main.1796080f.chunk.css.map",
+    "static/js/2.6faf3461.chunk.js.LICENSE.txt": "/talkitout/static/js/2.6faf3461.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db6450f5.js",
+    "static/js/2.6faf3461.chunk.js",
+    "static/css/main.1796080f.chunk.css",
+    "static/js/main.7f6e641f.chunk.js"
+  ]
+}
